@@ -2,16 +2,12 @@
 
 # Hello microverse
 
-> The fierst project in microverse.
-
-![screenshot](./app_screenshot.png)
+> The first project in microverse.
 
 ## Features
-
 - Home page
 
 ## Built With
-
 - Html
 - CSS
 
